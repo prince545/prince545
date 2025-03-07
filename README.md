@@ -1,7 +1,7 @@
 ## 💫 About Me  
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=25CEF7&center=true&vCenter=true&width=900&lines=+Welcome+to+my+Profile!+%E2%9C%A8;%F0%9F%8F%86+I'm+Simerjeet+Singh!;+%F0%9F%92%BB+Full-Stack+Web+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=25CEF7&center=true&vCenter=true&width=900&lines=+Welcome+to+my+Profile!+%E2%9C%A8;%F0%9F%8F%86+I'm+Simerjeet+Singh!;+%F0%9F%92%BB+Full-Stack+Web+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 </div>
 
