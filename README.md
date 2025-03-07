@@ -39,7 +39,8 @@ Full-Stack Web Developer | MERN | MYSQL | NEXT.js
 ## 🏆 GitHub Trophies :
 ![trophy](https://github-profile-trophy.vercel.app/?username=prince545&theme=dark)
 
-<img src="https://streak-stats.demolab.com/?user=prince545&theme=dark" alt="GitHub Streak" />
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=prince545&theme=dark)
 
 
 
