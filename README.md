@@ -6,9 +6,22 @@
 ## 🚀 Simerjeet Singh 👨‍💻
 Full-Stack Web Developer | MERN | MYSQL | NEXT.js 
 
-### 🛠 Tech Stack :
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+
 
 ## 📊 GitHub Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
