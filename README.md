@@ -41,7 +41,7 @@ Full-Stack Web Developer | MERN | MYSQL | NEXT.js
 
 
 ## 🏆GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=prince545&theme=dark)
+(https://streak-stats.demolab.com?user=prince545&theme=dark)
 
 
 
