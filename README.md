@@ -51,6 +51,9 @@ Full-Stack Web Developer | MERN | MYSQL | NEXT.js
 ## 📌 Most Used Languages :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince545&layout=compact&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=prince545&theme=dark)
+
+
 
 ## 💡 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
