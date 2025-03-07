@@ -23,12 +23,14 @@ Full-Stack Web Developer | MERN | MYSQL | NEXT.js
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 
 
+
 ## 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince545&show_icons=true&theme=dark)
+
 
 
 ## 🏆 GitHub Trophies :
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=prince545&theme=dark)
 
 
 ## 💡 Random Dev Quote
