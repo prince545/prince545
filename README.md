@@ -13,10 +13,7 @@
                               
 
 
-<div align="center">
 # 🏆 Simerjeet Singh 🖥️
-
-</div>
 
 🚀 **Full-Stack Web Developer | MERN & Next.js Supremacy | Data Science & AI/ML Learner** 🚀
 
