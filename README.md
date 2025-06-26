@@ -10,8 +10,26 @@
 
 ![Animated GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-## 🚀 Simerjeet Singh 👨‍💻
-Full-Stack Web Developer | MERN | MYSQL | NEXT.js 
+### 🚀 Simerjeet Singh 👨‍💻
+
+
+
+🚀 **Full-Stack Web Developer | MERN & Next.js Supremacy | Data Science & AI/ML Learner** 🚀
+
+🏫 I’m a BTech student passionate about technology, currently in my second year. I'm constantly evolving my skill set and exploring different areas across the tech spectrum.
+
+🌱 Currently diving deep into **ML** and **DL**
+
+🖥️ Experienced in **MERN stack development**, and proficient with **Tailwind CSS**, **Bootstrap**, and **Shadcn** for building clean, responsive, and elegant user interfaces.
+
+📊 Skilled in  **Exploratory Data Analysis (EDA)** . I'm expanding my knowledge into **data science**, **machine learning**, and **deep learning fundamentals**.
+
+🎯 I love building side projects, experimenting with new tools, and solving real-world problems through code.
+💡 Always open to **open-source contributions**, **collaborations**, and **freelancing opportunities**!
+
+---
+
+
 
 ## 🛠 Tech Stack
 
