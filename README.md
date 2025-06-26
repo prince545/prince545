@@ -25,8 +25,10 @@
 
 📊 Skilled in  **Exploratory Data Analysis (EDA)** . I'm expanding my knowledge into **data science**, **machine learning**, and **deep learning fundamentals**.
 
-🎯 I love building side projects, experimenting with new tools, and solving real-world problems through code.
-💡 Always open to **open-source contributions**, **collaborations**, and **freelancing opportunities**!
+
+🎯 I’m passionate about building side projects, exploring emerging technologies, and tackling real-world challenges through innovative code.
+
+💡 Always excited to collaborate on open-source projects, contribute to meaningful tech communities, and take on freelance opportunities that make an impact!
 
 ---
 
