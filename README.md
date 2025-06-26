@@ -28,6 +28,9 @@ Full-Stack Web Developer | MERN | MYSQL | NEXT.js
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman)
+
+
 
 
 
