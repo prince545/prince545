@@ -17,7 +17,7 @@
 
 🚀 **Full-Stack Web Developer | MERN & Next.js Supremacy | Data Science & AI/ML Learner** 🚀
 
-🏫 I’m a BTech student passionate about technology, currently in my second year. I'm constantly evolving my skill set and exploring different areas across the tech spectrum.
+🏫 I’m a BTech student passionate about technology, currently in my third year. I'm constantly evolving my skill set and exploring different areas across the tech spectrum.
 
 🌱 Currently diving deep into **ML** and **DL**
 
