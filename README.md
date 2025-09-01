@@ -55,13 +55,7 @@
 
 
 
-## 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince545&show_icons=true&theme=dark)
 
-
-
-## 🏆 GitHub Trophies :
-![trophy](https://github-profile-trophy.vercel.app/?username=prince545&theme=dark)
 
 
 
