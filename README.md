@@ -52,9 +52,6 @@
 
 ---
 
-## 📌 Most Used Languages :
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince545&layout=compact&theme=dark)
 
 ## 💡 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
