@@ -7,6 +7,7 @@
   <p>I am a 3rd-year Computer Science Engineering student at MSIT (Class of 2027), passionate about building production-ready applications from the ground up. I bridge the gap between clean, responsive user interfaces and robust, cloud-native backend infrastructure.</p>
 </div>
 
+
 ---
 
 ### ⚡ What I Do
@@ -63,4 +64,4 @@ I am actively preparing for SDE placements and seeking internships, open-source 
 <div align="center">
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
+</div>   
